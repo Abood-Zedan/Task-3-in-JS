@@ -1,0 +1,18 @@
+form {
+    margin-bottom: 50px;
+}
+div {
+    margin: 20px 0;
+}
+button {
+    border-radius: 7px;
+    padding: 5px 10px;
+    background: teal;
+    color: white;
+}
+table {
+    background-color: darkgray;
+}
+table tr td {
+    padding: 10px 20px;
+}
